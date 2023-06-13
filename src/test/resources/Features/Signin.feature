@@ -45,7 +45,6 @@ Feature: Signin functionality
     | SignIn    | 4         |
     | SignIn    | 5         |
     
-    Feature: <name functionality>
     
 
     
