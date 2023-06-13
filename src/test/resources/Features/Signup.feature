@@ -13,10 +13,11 @@ Feature: Signup functionality
     @failure
     Scenario: Sign up without filling any details
     Given User navigates to Sign up page
-    When User dont enter any details into fields in the signin form
+    When User dont enter any details into fields in the signup form
     And User clicks on Sign up button
     Then User should get proper warning messages for every mandatory field
 
+   
     Scenario Outline: Sign up with invalid mandatory fields
     Given User navigates to Sign up page
     When User fill the form sign up from given sheetname "<SheetName>" and rowNumber <rowNumber>

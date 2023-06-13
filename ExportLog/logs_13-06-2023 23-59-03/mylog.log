@@ -1,0 +1,4 @@
+[ERROR] 14-06-2023 00:00:14 [Log] - Element not exist. By.id: first_name-error
+[INFO] 14-06-2023 00:00:14 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (e4ad576dfbe31a0d188c2cd0583ac17f)
+[INFO] 14-06-2023 00:00:15 [Log] - Screenshot taken: Sign up without filling any details
+[INFO] 14-06-2023 00:00:15 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/signup

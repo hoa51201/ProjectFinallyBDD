@@ -1,0 +1,44 @@
+[INFO] 14-06-2023 00:02:19 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:02:19 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 00:02:30 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:02:30 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:02:30 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 00:02:31 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:02:31 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:02:31 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 00:02:31 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:02:35 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:02:36 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:02:38 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:02:38 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 00:02:39 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 00:02:39 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:02:39 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 00:02:50 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:02:51 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:02:51 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 00:02:51 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:02:51 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:02:51 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 00:02:51 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:02:56 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:02:57 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:02:58 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:02:59 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 00:02:59 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 00:02:59 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:02:59 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 00:03:10 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:03:10 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:03:10 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 00:03:10 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:03:11 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:03:11 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 00:03:11 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:03:15 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:03:16 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:03:18 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:03:18 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 00:03:19 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 00:03:19 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:03:19 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe

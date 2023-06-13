@@ -1,0 +1,36 @@
+[INFO] 13-06-2023 23:55:49 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 23:55:49 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 23:56:00 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:56:01 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:56:01 [Log] - Verify element visible By.xpath: //label[contains(text(),'Individual')]
+[INFO] 13-06-2023 23:56:01 [Log] - Click on element By.xpath: //label[contains(text(),'Individual')]
+[INFO] 13-06-2023 23:56:01 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:56:02 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:56:02 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:56:02 [Log] - Set text hanh on By.id: first_name
+[INFO] 13-06-2023 23:56:02 [Log] - Verify element visible By.id: last_name
+[INFO] 13-06-2023 23:56:02 [Log] - Clear value in textbox By.id: last_name
+[INFO] 13-06-2023 23:56:02 [Log] - Verify element visible By.id: last_name
+[INFO] 13-06-2023 23:56:02 [Log] - Set text bui on By.id: last_name
+[INFO] 13-06-2023 23:56:02 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 23:56:02 [Log] - Clear value in textbox By.id: email
+[INFO] 13-06-2023 23:56:02 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 23:56:02 [Log] - Set text hanh74873@gmail.com on By.id: email
+[INFO] 13-06-2023 23:56:02 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 23:56:02 [Log] - Clear value in textbox By.id: password
+[INFO] 13-06-2023 23:56:03 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 23:56:03 [Log] - Set text 27111992 on By.id: password
+[INFO] 13-06-2023 23:56:03 [Log] - Verify element visible By.id: retype_password
+[INFO] 13-06-2023 23:56:03 [Log] - Clear value in textbox By.id: retype_password
+[INFO] 13-06-2023 23:56:03 [Log] - Verify element visible By.id: retype_password
+[INFO] 13-06-2023 23:56:03 [Log] - Set text 27111992 on By.id: retype_password
+[INFO] 13-06-2023 23:56:03 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (764dff9773c0709b715373d37474c082)
+[INFO] 13-06-2023 23:56:04 [Log] - Screenshot taken: Sign up with vaild fields
+[INFO] 13-06-2023 23:56:04 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/signup
+[INFO] 13-06-2023 23:56:05 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 23:56:06 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 23:56:17 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:56:18 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:56:18 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (81b4b5287c0b871b77228ba4769f9585)
+[INFO] 13-06-2023 23:56:19 [Log] - Screenshot taken: Sign up without filling any details
+[INFO] 13-06-2023 23:56:19 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/signup

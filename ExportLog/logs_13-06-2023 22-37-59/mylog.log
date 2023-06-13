@@ -1,0 +1,26 @@
+[INFO] 13-06-2023 22:38:04 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 22:38:04 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 22:38:25 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 22:38:25 [Log] - Clear value in textbox By.id: email
+[INFO] 13-06-2023 22:38:25 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 22:38:25 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 13-06-2023 22:38:25 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 22:38:25 [Log] - Clear value in textbox By.id: password
+[INFO] 13-06-2023 22:38:25 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 22:38:25 [Log] - Set text riseDemo on By.id: password
+[INFO] 13-06-2023 22:38:25 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 13-06-2023 22:38:32 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 13-06-2023 22:38:33 [Log] - Verify Equals: Dashboard | RISE - Ultimate Project Manager and CRM = Dashboard | RISE - Ultimate Project Manager and CRM
+[INFO] 13-06-2023 22:38:33 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 22:38:33 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 22:38:45 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 22:38:45 [Log] - Clear value in textbox By.id: email
+[INFO] 13-06-2023 22:38:45 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 22:38:45 [Log] - Set text client@demo.com on By.id: email
+[INFO] 13-06-2023 22:38:45 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 22:38:45 [Log] - Clear value in textbox By.id: password
+[INFO] 13-06-2023 22:38:45 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 22:38:45 [Log] - Set text riseDemo on By.id: password
+[INFO] 13-06-2023 22:38:46 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 13-06-2023 22:38:51 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 13-06-2023 22:38:52 [Log] - Verify Equals: Dashboard | RISE - Ultimate Project Manager and CRM = Dashboard | RISE - Ultimate Project Manager and CRM

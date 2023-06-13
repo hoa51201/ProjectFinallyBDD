@@ -1,0 +1,57 @@
+[INFO] 13-06-2023 23:59:05 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 23:59:05 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 23:59:25 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:59:26 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:59:26 [Log] - Verify element visible By.xpath: //label[contains(text(),'Individual')]
+[INFO] 13-06-2023 23:59:26 [Log] - Click on element By.xpath: //label[contains(text(),'Individual')]
+[INFO] 13-06-2023 23:59:26 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:59:27 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:59:27 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:59:27 [Log] - Set text hanh on By.id: first_name
+[INFO] 13-06-2023 23:59:27 [Log] - Verify element visible By.id: last_name
+[INFO] 13-06-2023 23:59:27 [Log] - Clear value in textbox By.id: last_name
+[INFO] 13-06-2023 23:59:27 [Log] - Verify element visible By.id: last_name
+[INFO] 13-06-2023 23:59:27 [Log] - Set text bui on By.id: last_name
+[INFO] 13-06-2023 23:59:27 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 23:59:27 [Log] - Clear value in textbox By.id: email
+[INFO] 13-06-2023 23:59:27 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 23:59:27 [Log] - Set text hanh74873@gmail.com on By.id: email
+[INFO] 13-06-2023 23:59:27 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 23:59:27 [Log] - Clear value in textbox By.id: password
+[INFO] 13-06-2023 23:59:27 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 23:59:28 [Log] - Set text 27111992 on By.id: password
+[INFO] 13-06-2023 23:59:28 [Log] - Verify element visible By.id: retype_password
+[INFO] 13-06-2023 23:59:28 [Log] - Clear value in textbox By.id: retype_password
+[INFO] 13-06-2023 23:59:28 [Log] - Verify element visible By.id: retype_password
+[INFO] 13-06-2023 23:59:28 [Log] - Set text 27111992 on By.id: retype_password
+[INFO] 13-06-2023 23:59:29 [Log] - Verify Equals: Sign up | RISE - Ultimate Project Manager and CRM = Sign up | RISE - Ultimate Project Manager and CRM
+[INFO] 13-06-2023 23:59:29 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 23:59:29 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 23:59:40 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:59:41 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:59:41 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:59:41 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:59:41 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:59:41 [Log] - Set text  on By.id: first_name
+[INFO] 13-06-2023 23:59:41 [Log] - Verify element visible By.id: last_name
+[INFO] 13-06-2023 23:59:41 [Log] - Clear value in textbox By.id: last_name
+[INFO] 13-06-2023 23:59:41 [Log] - Verify element visible By.id: last_name
+[INFO] 13-06-2023 23:59:42 [Log] - Set text  on By.id: last_name
+[INFO] 13-06-2023 23:59:42 [Log] - Verify element visible By.id: company_name
+[INFO] 13-06-2023 23:59:42 [Log] - Clear value in textbox By.id: company_name
+[INFO] 13-06-2023 23:59:42 [Log] - Verify element visible By.id: company_name
+[INFO] 13-06-2023 23:59:42 [Log] - Set text  on By.id: company_name
+[INFO] 13-06-2023 23:59:42 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 23:59:42 [Log] - Clear value in textbox By.id: email
+[INFO] 13-06-2023 23:59:42 [Log] - Verify element visible By.id: email
+[INFO] 13-06-2023 23:59:42 [Log] - Set text  on By.id: email
+[INFO] 13-06-2023 23:59:42 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 23:59:42 [Log] - Clear value in textbox By.id: password
+[INFO] 13-06-2023 23:59:42 [Log] - Verify element visible By.id: password
+[INFO] 13-06-2023 23:59:42 [Log] - Set text  on By.id: password
+[INFO] 13-06-2023 23:59:44 [Log] - Scroll to element By.id: retype_password
+[INFO] 13-06-2023 23:59:44 [Log] - Clear value in textbox By.id: retype_password
+[INFO] 13-06-2023 23:59:44 [Log] - Verify element visible By.id: retype_password
+[INFO] 13-06-2023 23:59:44 [Log] - Set text  on By.id: retype_password
+[INFO] 13-06-2023 23:59:44 [Log] - Verify element visible By.id: signup-form
+[INFO] 13-06-2023 23:59:44 [Log] - Click on element By.id: signup-form

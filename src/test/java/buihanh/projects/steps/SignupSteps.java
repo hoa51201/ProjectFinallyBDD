@@ -29,7 +29,7 @@ public class SignupSteps {
 		signupPage.moveToSignUp();
 	}
 
-	@When("User dont enter any details into fields")
+	@When("User dont enter any details into fields in the signup form")
 	public void user_dont_enter_any_details_into_fields() {
 		signupPage.enterFirstName("");
 		signupPage.enterLastName("");
@@ -50,10 +50,10 @@ public class SignupSteps {
         for (Map<String,String> dataMap:datalist)
         {
         	signupPage.enterFirstName(dataMap.get("firstname"));
-    		signupPage.enterFirstName(dataMap.get("lastname"));
-    		signupPage.enterFirstName(dataMap.get("email"));
-    		signupPage.enterFirstName(dataMap.get("password"));
-    		signupPage.enterFirstName(dataMap.get("retypepassword"));
+    		signupPage.enterLastName(dataMap.get("lastname"));
+    		signupPage.enterEmail(dataMap.get("email"));
+    		signupPage.enterPassword(dataMap.get("password"));
+    		signupPage.enterRetypePass(dataMap.get("retypepassword"));
         }	
 	}
 	@When("User fill the form sign up from given sheetname {string} and rowNumber {int}")
@@ -88,15 +88,12 @@ public class SignupSteps {
 	}
 	@Then("User account should get created successfully")
 	public void user_account_should_get_created_successfully() {
-	    WebUI.verifyEquals(signinPage.SigninTitle(),"Sign in | RISE - Ultimate Project Manager and CRM");
+	    WebUI.verifyEquals(signupPage.SignupTitle(),"Sign up | RISE - Ultimate Project Manager and CRM");
 	}
 	@Then("Display an error message right below the invaild field")
 	public void display_an_error_message_right_below_the_invaild_field() {
 		
-//		WebUI.verifyEquals(signupPage.getWarningMessageFirstName(), expResult);
-//		WebUI.verifyEquals(signupPage.getWarningMessageLastName(), "This field is required.");
-//		WebUI.verifyEquals(signupPage.getWarningMessageEmail(), "This field is required.");
-//		WebUI.verifyEquals(signupPage.getWarningMessagePassword(), "This field is required.");
+		WebUI.verifyEquals(signupPage.getWarningMessageFirstName(), expResult);		
 	}
 	@Then("User should get proper warning messages for every mandatory field")
 	public void user_should_get_proper_warning_messages_for_every_mandatory_field() {

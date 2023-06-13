@@ -37,13 +37,13 @@ public class ImportSteps {
 		importPage.openImportPage();
 	}
 
-	@When("User upload files from given sheetname {string} and rownumber {int}")
-	public void user_upload_files_from_given_sheetname_and_rownumber(String sheetname, Integer rownumber)throws InvalidFormatException, IOException {
+	@When("User upload files from given sheetname {string} and rowNumber {int}")
+	public void user_upload_files_from_given_sheetname_and_rownumber(String sheetname, Integer rowNumber)throws InvalidFormatException, IOException {
 		ExcelHelpers reader = new ExcelHelpers();
 		String excelpath = Helpers.getCurrentDir()+"src\\test\\resources\\data\\data.xlsx";
 		List<Map<String, String>> testdata = reader.getData(excelpath, sheetname);
-		fileupload = testdata.get(rownumber).get("file_upload");
-		expResult = testdata.get(rownumber).get("exception_result");
+		fileupload = testdata.get(rowNumber).get("file_upload");
+		expResult = testdata.get(rowNumber).get("exception_result");
 		importPage.handleUploadFile(fileupload);
 	}
 

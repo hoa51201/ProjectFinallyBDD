@@ -2,7 +2,7 @@ Feature: Import clients functionality
  Background: User is logged to the HRM system
     Given User logged in with email "admin@demo.com" and password "riseDemo"
 
-  
+  @failure
   Scenario Outline: User uploaded the wrong file format
     Given User navigates to Import clients page
     When User upload files from given sheetname "<SheetName>" and rowNumber <rowNumber>
@@ -14,7 +14,6 @@ Feature: Import clients functionality
     | ImportClients | 1         |
     | ImportClients | 2         |
     | ImportClients | 3         |
-    | ImportClients | 4         |
     
     
   @failure
@@ -25,9 +24,9 @@ Feature: Import clients functionality
     Then  User receives an error message "<message>" is displays
     
     Examples:
-    | file_upload                         | message                                                                   |
-    | C:\Users\Admin\Downloads\Login.xlsx | There has an invalid header. The indicated field should be Company name.  |
-    | ‪C:\Users\Admin\Downloads\Book1.xlsx | There has an invalid header. The indicated field should be Company name.  |
+    | file_upload                                             | message                                                                   |
+    | C:\Users\Admin\Downloads\TestCase.xlsx                  | There has an invalid header. The indicated field should be Company name.  |
+    | ‪C:\Users\Admin\Downloads\NICHO3_Test plan_v1.1.xlsx     | There has an invalid header. The indicated field should be Company name.  |
   
     
     

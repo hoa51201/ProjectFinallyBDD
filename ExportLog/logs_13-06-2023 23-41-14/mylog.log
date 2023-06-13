@@ -1,0 +1,37 @@
+[INFO] 13-06-2023 23:41:19 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 23:41:19 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 23:41:31 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:41:32 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:41:32 [Log] - Verify element visible By.xpath: //label[contains(text(),'Individual')]
+[INFO] 13-06-2023 23:41:33 [Log] - Click on element By.xpath: //label[contains(text(),'Individual')]
+[INFO] 13-06-2023 23:41:33 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Set text hanh on By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Set text bui on By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Set text hanh74873@gmail.com on By.id: first_name
+[INFO] 13-06-2023 23:41:33 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:34 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:41:34 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:34 [Log] - Set text 27111992 on By.id: first_name
+[INFO] 13-06-2023 23:41:34 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:34 [Log] - Clear value in textbox By.id: first_name
+[INFO] 13-06-2023 23:41:34 [Log] - Verify element visible By.id: first_name
+[INFO] 13-06-2023 23:41:34 [Log] - Set text 27111992 on By.id: first_name
+[INFO] 13-06-2023 23:41:35 [Log] - Verify Equals: Sign up | RISE - Ultimate Project Manager and CRM != Sign in | RISE - Ultimate Project Manager and CRM
+[INFO] 13-06-2023 23:41:35 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (a6d3c09fa5bf7137b9f9b99a6787c692)
+[INFO] 13-06-2023 23:41:36 [Log] - Screenshot taken: Sign up with vaild fields
+[INFO] 13-06-2023 23:41:36 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/signup
+[INFO] 13-06-2023 23:41:37 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 13-06-2023 23:41:37 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 13-06-2023 23:41:49 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:41:50 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]
+[INFO] 13-06-2023 23:41:50 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (ff2054c6f73727367fc26ef44ba1fb7a)
+[INFO] 13-06-2023 23:41:50 [Log] - Screenshot taken: Sign up without filling any details
+[INFO] 13-06-2023 23:41:50 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/signup
