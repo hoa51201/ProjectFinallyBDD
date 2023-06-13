@@ -1,1 +1,4 @@
-file:src/test/resources/Features/ImportClients.feature:16:17:29:30
+file:src/test/resources/Features/AddClient.feature:26
+file:src/test/resources/Features/Signup.feature:14
+file:src/test/resources/Features/Signin.feature:32
+file:src/test/resources/Features/ImportClients.feature:28:29

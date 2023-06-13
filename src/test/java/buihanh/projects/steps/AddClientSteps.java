@@ -72,23 +72,23 @@ public class AddClientSteps {
 	public void display_client_info_and_check_values_detail() {
 		clientPage.checkClientDetail(CompanyName, SearchOwner, Address, City, State, Zip, Country, Phone, Website, Vat, ClientGroups);
 	}
-	@When("User fill the form add client from given sheetname {string} and rownumber {int}")
-	public void user_fill_the_from_add_client_from_given_sheetname_and_rownumber(String sheetname, Integer rownumber)throws InvalidFormatException, IOException {
+	@When("User fill the form add client from given sheetname {string} and rowNumber {int}")
+	public void user_fill_the_from_add_client_from_given_sheetname_and_rownumber(String sheetname, Integer rowNumber)throws InvalidFormatException, IOException {
 		ExcelHelpers reader = new ExcelHelpers();
 		String excelpath = Helpers.getCurrentDir()+"src\\test\\resources\\data\\data.xlsx";
 		List<Map<String, String>> testdata = reader.getData(excelpath, sheetname);
-		CompanyName = testdata.get(rownumber).get("company_name");
-		SearchOwner = testdata.get(rownumber).get("owner");
-		Address = testdata.get(rownumber).get("address");
-		City = testdata.get(rownumber).get("city");
-		State = testdata.get(rownumber).get("state");
-		Zip = testdata.get(rownumber).get("zip");
-		Country = testdata.get(rownumber).get("country");
-		Phone = testdata.get(rownumber).get("phone");
-		Website = testdata.get(rownumber).get("website");
-		Vat = testdata.get(rownumber).get("vat");
-		ClientGroups = testdata.get(rownumber).get("client_group");
-		expResult = testdata.get(rownumber).get("exception_result");
+		CompanyName = testdata.get(rowNumber).get("company_name");
+		SearchOwner = testdata.get(rowNumber).get("owner");
+		Address = testdata.get(rowNumber).get("address");
+		City = testdata.get(rowNumber).get("city");
+		State = testdata.get(rowNumber).get("state");
+		Zip = testdata.get(rowNumber).get("zip");
+		Country = testdata.get(rowNumber).get("country");
+		Phone = testdata.get(rowNumber).get("phone");
+		Website = testdata.get(rowNumber).get("website");
+		Vat = testdata.get(rowNumber).get("vat");
+		ClientGroups = testdata.get(rowNumber).get("client_group");
+		expResult = testdata.get(rowNumber).get("exception_result");
 		clientPage.addClient(CompanyName, SearchOwner, Address, City, State, Zip, Country, Phone, Website, Vat, ClientGroups);
 
 	}

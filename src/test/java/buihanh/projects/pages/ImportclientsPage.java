@@ -49,6 +49,7 @@ public class ImportclientsPage {
 		return WebUI.getTextElement(labelFormatError);
 	}
 	public void clickOnNextButton() {
+		WebUI.sleep(3);
 		WebUI.clickElement(buttonNext);
 	}
 

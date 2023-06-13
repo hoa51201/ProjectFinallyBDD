@@ -1,0 +1,5 @@
+[INFO] 14-06-2023 00:59:04 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:59:04 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 00:59:11 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (a8d6c7513ccc57b96d232f57d61500ee)
+[INFO] 14-06-2023 00:59:11 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:59:11 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe

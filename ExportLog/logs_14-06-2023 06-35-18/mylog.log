@@ -1,0 +1,111 @@
+[INFO] 14-06-2023 06:35:19 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 06:35:19 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 06:35:29 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:35:30 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:35:30 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 06:35:30 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:35:31 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:35:31 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 06:35:31 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:35:37 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:35:38 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:35:40 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:35:40 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:35:41 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:35:48 [Log] - Upload File With Local Form: C:\Users\Admin\Downloads\webUI.docx
+[INFO] 14-06-2023 06:35:49 [Log] - Verify element visible By.xpath: //div[@id='uploaded-file-previews']/div/div[2]/strong
+[INFO] 14-06-2023 06:35:50 [Log] - Verify Equals: File type is not allowed. = File type is not allowed.
+[INFO] 14-06-2023 06:35:50 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 06:35:50 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 06:35:59 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:35:59 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:36:00 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 06:36:00 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:36:00 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:36:00 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 06:36:00 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:36:05 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:36:07 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:36:09 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:36:09 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:36:09 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:36:15 [Log] - Upload File With Local Form: C:\Users\Admin\Downloads\ExcelReader.txt
+[INFO] 14-06-2023 06:36:17 [Log] - Verify element visible By.xpath: //div[@id='uploaded-file-previews']/div/div[2]/strong
+[INFO] 14-06-2023 06:36:18 [Log] - Verify Equals: Please upload a excel file. (.xlsx) = Please upload a excel file. (.xlsx)
+[INFO] 14-06-2023 06:36:18 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 06:36:18 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 06:36:27 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:36:28 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:36:28 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 06:36:28 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:36:28 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:36:29 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 06:36:29 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:36:34 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:36:36 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:36:38 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:36:38 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:36:38 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:36:44 [Log] - Upload File With Local Form: C:\Users\Admin\Downloads\yamada.jpg
+[INFO] 14-06-2023 06:36:45 [Log] - Verify element visible By.xpath: //div[@id='uploaded-file-previews']/div/div[2]/strong
+[INFO] 14-06-2023 06:36:46 [Log] - Verify Equals: Please upload a excel file. (.xlsx) = Please upload a excel file. (.xlsx)
+[INFO] 14-06-2023 06:36:46 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 06:36:46 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 06:36:54 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:36:54 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:36:55 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 06:36:55 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:36:55 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:36:56 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 06:36:56 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:37:01 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:37:02 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:37:04 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:37:05 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:37:05 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:37:11 [Log] - Upload File With Local Form: D:\project_export.zip
+[INFO] 14-06-2023 06:37:12 [Log] - Verify element visible By.xpath: //div[@id='uploaded-file-previews']/div/div[2]/strong
+[INFO] 14-06-2023 06:37:13 [Log] - Verify Equals: File type is not allowed. = File type is not allowed.
+[INFO] 14-06-2023 06:37:13 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 06:37:13 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 06:37:23 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:37:23 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:37:23 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 06:37:23 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:37:24 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:37:24 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 06:37:24 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:37:29 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:37:31 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:37:33 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:37:33 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:37:33 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:37:39 [Log] - Upload File With Local Form: C:\Users\Admin\Downloads\TestCase.xlsx
+[INFO] 14-06-2023 06:37:42 [Log] - Verify element visible By.xpath: //button[@id='form-next']
+[INFO] 14-06-2023 06:37:42 [Log] - Click on element By.xpath: //button[@id='form-next']
+[INFO] 14-06-2023 06:37:43 [Log] - Verify element visible By.id: ajaxModalTitle
+[INFO] 14-06-2023 06:37:44 [Log] - Verify Equals: Import clients = Import clients
+[INFO] 14-06-2023 06:37:44 [Log] - Verify element visible By.xpath: //tbody/tr[6]/td[1]
+[INFO] 14-06-2023 06:37:45 [Log] - Verify Equals: LoginTest != There has an invalid header. The indicated field should be Company name.
+[INFO] 14-06-2023 06:37:45 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (0b1564882318106fc54dd37c4947f3bc)
+[INFO] 14-06-2023 06:37:45 [Log] - Screenshot taken: User uploaded the correct file format but wrong template
+[INFO] 14-06-2023 06:37:45 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/clients
+[INFO] 14-06-2023 06:37:46 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 06:37:46 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 06:37:55 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:37:55 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 06:37:56 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 06:37:56 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:37:56 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 06:37:57 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 06:37:57 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:38:02 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 06:38:03 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:38:05 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 06:38:06 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:38:06 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 14-06-2023 06:38:12 [Log] - Upload File With Local Form: ‪D:\CB (2).xlsx
+[INFO] 14-06-2023 06:38:15 [Log] - Verify element visible By.xpath: //button[@id='form-next']
+[INFO] 14-06-2023 06:38:16 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (c004007724e82a4aaceb967eabec0088)
+[INFO] 14-06-2023 06:38:17 [Log] - Screenshot taken: User uploaded the correct file format but wrong template
+[INFO] 14-06-2023 06:38:17 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/clients

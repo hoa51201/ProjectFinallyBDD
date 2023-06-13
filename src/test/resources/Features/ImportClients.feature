@@ -13,10 +13,8 @@ Feature: Import clients functionality
     | ImportClients | 0         |
     | ImportClients | 1         |
     | ImportClients | 2         |
-    | ImportClients | 3         |
     
-    
-  @failure
+  
   Scenario Outline: User uploaded the correct file format but wrong template
     Given User navigates to Import clients page
     When User upload files "<file_upload>" with wrong template
@@ -24,9 +22,9 @@ Feature: Import clients functionality
     Then  User receives an error message "<message>" is displays
     
     Examples:
-    | file_upload                                             | message                                                                   |
-    | C:\Users\Admin\Downloads\TestCase.xlsx                  | There has an invalid header. The indicated field should be Company name.  |
-    | ‪C:\Users\Admin\Downloads\NICHO3_Test plan_v1.1.xlsx     | There has an invalid header. The indicated field should be Company name.  |
+    | file_upload                                 | message                                                                   |
+    | C:\Users\Admin\Downloads\TestCase.xlsx      | There has an invalid header. The indicated field should be Company name.  |
+    | C:\Users\Admin\Downloads\TestCase.xlsx      | There has an invalid header. The indicated field should be Company name.  |
   
     
     

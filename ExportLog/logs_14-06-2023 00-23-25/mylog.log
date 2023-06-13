@@ -1,0 +1,115 @@
+[INFO] 14-06-2023 00:23:27 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:23:27 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 00:23:37 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:23:37 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:23:37 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 00:23:37 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:23:37 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:23:38 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 00:23:38 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:23:41 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:23:43 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:23:45 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:23:47 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:23:48 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:23:52 [Log] - Verify element visible By.xpath: //a[normalize-space()='Add client']
+[INFO] 14-06-2023 00:23:52 [Log] - Click on element By.xpath: //a[normalize-space()='Add client']
+[INFO] 14-06-2023 00:23:53 [Log] - Verify element visible By.xpath: //input[@id='company_name']
+[INFO] 14-06-2023 00:23:53 [Log] - Set text hanh on By.xpath: //input[@id='company_name']
+[INFO] 14-06-2023 00:23:53 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']
+[INFO] 14-06-2023 00:23:53 [Log] - Click on element By.xpath: //div[@id='s2id_created_by']
+[INFO] 14-06-2023 00:23:53 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//input
+[INFO] 14-06-2023 00:23:53 [Log] - Set text Mark Thomas on By.xpath: //div[@id='select2-drop']//input
+[INFO] 14-06-2023 00:23:53 [Log] - Verify element visible By.xpath: (//div[contains(@id,'select2-result-label')])[1]
+[INFO] 14-06-2023 00:23:53 [Log] - Click on element By.xpath: (//div[contains(@id,'select2-result-label')])[1]
+[INFO] 14-06-2023 00:23:53 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[INFO] 14-06-2023 00:23:53 [Log] - Set text Hung Yen on By.xpath: //textarea[@id='address']
+[INFO] 14-06-2023 00:23:53 [Log] - Verify element visible By.xpath: //input[@id='city']
+[INFO] 14-06-2023 00:23:54 [Log] - Set text Hung Yen on By.xpath: //input[@id='city']
+[INFO] 14-06-2023 00:23:54 [Log] - Verify element visible By.xpath: //input[@id='state']
+[INFO] 14-06-2023 00:23:54 [Log] - Set text Phuong Chieu on By.xpath: //input[@id='state']
+[INFO] 14-06-2023 00:23:54 [Log] - Verify element visible By.xpath: //input[@id='zip']
+[INFO] 14-06-2023 00:23:54 [Log] - Set text 870000 on By.xpath: //input[@id='zip']
+[INFO] 14-06-2023 00:23:54 [Log] - Verify element visible By.xpath: //input[@id='country']
+[INFO] 14-06-2023 00:23:54 [Log] - Set text Vietnam on By.xpath: //input[@id='country']
+[INFO] 14-06-2023 00:23:54 [Log] - Verify element visible By.xpath: //input[@id='phone']
+[INFO] 14-06-2023 00:23:54 [Log] - Set text 0939206009 on By.xpath: //input[@id='phone']
+[INFO] 14-06-2023 00:23:54 [Log] - Verify element visible By.xpath: //input[@id='website']
+[INFO] 14-06-2023 00:23:54 [Log] - Set text https://rise.fairsketch.com/ on By.xpath: //input[@id='website']
+[INFO] 14-06-2023 00:23:56 [Log] - Scroll to element By.xpath: //input[@id='vat_number']
+[INFO] 14-06-2023 00:23:56 [Log] - Set text 10 on By.xpath: //input[@id='vat_number']
+[INFO] 14-06-2023 00:23:56 [Log] - Verify element visible By.xpath: (//label[normalize-space()='Client groups']/following-sibling::div//input)[1]
+[INFO] 14-06-2023 00:23:56 [Log] - Set text VIP on By.xpath: (//label[normalize-space()='Client groups']/following-sibling::div//input)[1]
+[INFO] 14-06-2023 00:23:56 [Log] - Verify element visible By.xpath: //span[@class='select2-match']
+[INFO] 14-06-2023 00:23:56 [Log] - Click on element By.xpath: //span[@class='select2-match']
+[INFO] 14-06-2023 00:23:56 [Log] - Verify element visible By.xpath: //div[@id='ajaxModalContent']//button[normalize-space()='Save']
+[INFO] 14-06-2023 00:23:56 [Log] - Click on element By.xpath: //div[@id='ajaxModalContent']//button[normalize-space()='Save']
+[INFO] 14-06-2023 00:24:00 [Log] - Verify element visible By.xpath: //div[@id='client-table_length']//a
+[INFO] 14-06-2023 00:24:01 [Log] - Click on element By.xpath: //div[@id='client-table_length']//a
+[INFO] 14-06-2023 00:24:01 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']
+[INFO] 14-06-2023 00:24:01 [Log] - Click on element By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']
+[INFO] 14-06-2023 00:24:03 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']
+[INFO] 14-06-2023 00:24:03 [Log] - Clear value in textbox By.xpath: //input[@placeholder='Search']
+[INFO] 14-06-2023 00:24:03 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']
+[INFO] 14-06-2023 00:24:03 [Log] - Set text hanh on By.xpath: //input[@placeholder='Search']
+[INFO] 14-06-2023 00:24:07 [Log] - The number of records found: 1
+[INFO] 14-06-2023 00:24:07 [Log] - Scroll to element [[ChromeDriver: chrome on WINDOWS (0b56b6084cc11a0e22e3cfdbcc7e7d60)] -> xpath: //table//tbody/tr[1]/td[2]/a]
+[INFO] 14-06-2023 00:24:07 [Log] - hanh - data exists!
+[INFO] 14-06-2023 00:24:09 [Log] - click record: hanh
+[INFO] 14-06-2023 00:24:12 [Log] - Verify element visible By.xpath: //a[normalize-space()='Client info']
+[INFO] 14-06-2023 00:24:12 [Log] - Click on element By.xpath: //a[normalize-space()='Client info']
+[INFO] 14-06-2023 00:24:14 [Log] - Verify element visible By.xpath: //input[@id='type_organization']
+[INFO] 14-06-2023 00:24:14 [Log] - Verify element visible By.xpath: //input[@id='company_name']
+[INFO] 14-06-2023 00:24:14 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]
+[INFO] 14-06-2023 00:24:14 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]
+[INFO] 14-06-2023 00:24:14 [Log] - Verify text of an element [Equals]: true
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[WARN] 14-06-2023 00:24:15 [Log] - Verify text of an element [Equals]: false
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[ERROR] 14-06-2023 00:24:15 [Log] - The actual text is 'Hung Yen' not equals '0939206009'
+[INFO] 14-06-2023 00:24:15 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[INFO] 14-06-2023 00:24:16 [Log] - Scroll to element By.xpath: //input[@id='city']
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //input[@id='state']
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //input[@id='zip']
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //input[@id='country']
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //input[@id='phone']
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //input[@id='website']
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //input[@id='vat_number']
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div
+[INFO] 14-06-2023 00:24:17 [Log] - Verify text of an element [Equals]: true
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div
+[INFO] 14-06-2023 00:24:17 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div
+[INFO] 14-06-2023 00:24:18 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:24:18 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 00:24:27 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:24:27 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:24:27 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 00:24:27 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:24:27 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:24:27 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 00:24:28 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:24:31 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:24:33 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:24:35 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:24:37 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:24:37 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:24:37 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 14-06-2023 00:24:37 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 14-06-2023 00:24:47 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:24:47 [Log] - Verify element visible By.id: email
+[INFO] 14-06-2023 00:24:47 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 14-06-2023 00:24:47 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:24:47 [Log] - Verify element visible By.id: password
+[INFO] 14-06-2023 00:24:47 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 14-06-2023 00:24:47 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:24:51 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 14-06-2023 00:24:53 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:24:55 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:24:57 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]
+[INFO] 14-06-2023 00:24:57 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]

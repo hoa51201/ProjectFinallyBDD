@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/resources/Features/ImportClients.feature", glue = {
+@CucumberOptions(features = "src/test/resources/Features", glue = {
 		        "buihanh/projects/steps", "buihanh/hooks" }, 
 plugin = {        		
 		"pretty","html:target/cucumber-html-report",
