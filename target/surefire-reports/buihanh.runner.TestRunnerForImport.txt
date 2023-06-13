@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: buihanh.runner.TestRunnerForImport
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 46.438 s <<< FAILURE! - in buihanh.runner.TestRunnerForImport
+Import clients functionality.User uploaded the correct file format but wrong template #1  Time elapsed: 22.812 s  <<< ERROR!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <button id="form-next" type="button" disabled="" class="btn btn-info text-white">...</button> is not clickable at point (1098, 605). Other element would receive the click: <div class="modal-footer">...</div>
+  (Session info: chrome=114.0.5735.110)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df090c8dadaa6236c09e4f9a627e2dd5, clickElement {id=3DE5DD0C422B157FF5495E1956A6EF28_element_35}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53027}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53027/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (df090c8dadaa6236c09e4f9a627e2dd5)] -> xpath: //button[@id='form-next']]
+Session ID: df090c8dadaa6236c09e4f9a627e2dd5
+
+Import clients functionality.User uploaded the correct file format but wrong template #2  Time elapsed: 20.397 s  <<< ERROR!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <button id="form-next" type="button" disabled="true" class="btn btn-info text-white">...</button> is not clickable at point (1098, 605). Other element would receive the click: <div class="modal-footer">...</div>
+  (Session info: chrome=114.0.5735.110)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6861f861736c2ff43e4234733cab45b6, clickElement {id=5EF5290295FC2553F0A7BEA55B8F031B_element_34}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53083}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53083/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (6861f861736c2ff43e4234733cab45b6)] -> xpath: //button[@id='form-next']]
+Session ID: 6861f861736c2ff43e4234733cab45b6
+

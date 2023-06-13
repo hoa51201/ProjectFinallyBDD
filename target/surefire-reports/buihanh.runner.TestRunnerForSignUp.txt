@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: buihanh.runner.TestRunnerForSignUp
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 22.667 s <<< FAILURE! - in buihanh.runner.TestRunnerForSignUp
+Signup functionality.Sign up with vaild fields  Time elapsed: 10.751 s  <<< FAILURE!
+java.lang.AssertionError: Sign up | RISE - Ultimate Project Manager and CRM != Sign in | RISE - Ultimate Project Manager and CRM expected [Sign in | RISE - Ultimate Project Manager and CRM] but found [Sign up | RISE - Ultimate Project Manager and CRM]
+
+Signup functionality.Sign up without filling any details  Time elapsed: 8.243 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "buihanh.projects.pages.SigninPage.enterEmail(String)" because "this.signinPage" is null
+

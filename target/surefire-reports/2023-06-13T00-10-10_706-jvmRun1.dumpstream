@@ -1,0 +1,2208 @@
+# Created at 2023-06-13T00:10:21.966
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:21.967
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '21 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:10:22.000
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:22.001
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '21 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:10:30.662
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:30.662
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '30 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:10:30.807
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:30.808
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '30 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:10:30.939
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:30.939
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '30 [Log] - Clear and Fill admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:10:31.003
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:31.003
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '31 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:10:31.118
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:31.119
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '31 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:10:31.216
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:31.217
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '31 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:10:31.282
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:31.282
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '31 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:10:34.491
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:34.492
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:10:36.604
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:36.605
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '36 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:10:38.013
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:38.013
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:10:40.106
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:40.107
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '40 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:10:40.201
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:40.202
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '40 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:10:44.699
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:44.726
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Verify element visible By.xpath: //a[normalize-space()='Add client']'.
+
+# Created at 2023-06-13T00:10:44.815
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:44.846
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Click on element By.xpath: //a[normalize-space()='Add client']'.
+
+# Created at 2023-06-13T00:10:45.539
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:45.540
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Verify element visible By.xpath: //input[@id='company_name']'.
+
+# Created at 2023-06-13T00:10:45.649
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:45.650
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Set text hanh on By.xpath: //input[@id='company_name']'.
+
+# Created at 2023-06-13T00:10:45.718
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:45.719
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']'.
+
+# Created at 2023-06-13T00:10:45.869
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:45.870
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Click on element By.xpath: //div[@id='s2id_created_by']'.
+
+# Created at 2023-06-13T00:10:45.933
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:45.934
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//input'.
+
+# Created at 2023-06-13T00:10:46.046
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Set text Mark Thomas on By.xpath: //div[@id='select2-drop']//input'.
+
+# Created at 2023-06-13T00:10:46.121
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.121
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify element visible By.xpath: (//div[contains(@id,'select2-result-label')])[1]'.
+
+# Created at 2023-06-13T00:10:46.202
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.203
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Click on element By.xpath: (//div[contains(@id,'select2-result-label')])[1]'.
+
+# Created at 2023-06-13T00:10:46.280
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.281
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify element visible By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:10:46.397
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.397
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Set text Hung Yen on By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:10:46.453
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.453
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify element visible By.xpath: //input[@id='city']'.
+
+# Created at 2023-06-13T00:10:46.543
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.543
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Set text Hung Yen on By.xpath: //input[@id='city']'.
+
+# Created at 2023-06-13T00:10:46.600
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.600
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify element visible By.xpath: //input[@id='state']'.
+
+# Created at 2023-06-13T00:10:46.705
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.705
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Set text Phuong Chieu on By.xpath: //input[@id='state']'.
+
+# Created at 2023-06-13T00:10:46.769
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.769
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify element visible By.xpath: //input[@id='zip']'.
+
+# Created at 2023-06-13T00:10:46.857
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.858
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Set text 870000 on By.xpath: //input[@id='zip']'.
+
+# Created at 2023-06-13T00:10:46.921
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:46.921
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify element visible By.xpath: //input[@id='country']'.
+
+# Created at 2023-06-13T00:10:47.026
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:47.027
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Set text Vietnam on By.xpath: //input[@id='country']'.
+
+# Created at 2023-06-13T00:10:47.087
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:47.088
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Verify element visible By.xpath: //input[@id='phone']'.
+
+# Created at 2023-06-13T00:10:47.205
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:47.207
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Set text 0939206009 on By.xpath: //input[@id='phone']'.
+
+# Created at 2023-06-13T00:10:47.271
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:47.272
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Verify element visible By.xpath: //input[@id='website']'.
+
+# Created at 2023-06-13T00:10:47.432
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:47.432
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Set text https://rise.fairsketch.com/ on By.xpath:'.
+
+# Created at 2023-06-13T00:10:47.433
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//input[@id='website']'.
+
+# Created at 2023-06-13T00:10:48.615
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:48.616
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '48 [Log] - Scroll to element By.xpath: //input[@id='vat_number']'.
+
+# Created at 2023-06-13T00:10:48.706
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:48.706
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '48 [Log] - Set text 10 on By.xpath: //input[@id='vat_number']'.
+
+# Created at 2023-06-13T00:10:48.757
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:48.758
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '48 [Log] - Verify element visible By.xpath: (//label[normalize-space()='Client groups']/following-sibling:'.
+
+# Created at 2023-06-13T00:10:48.759
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream ':div//input)[1]'.
+
+# Created at 2023-06-13T00:10:48.926
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:48.927
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '48 [Log] - Set text VIP on By.xpath: (//label[normalize-space()='Client groups']/following-sibling:'.
+
+# Created at 2023-06-13T00:10:48.927
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream ':div//input)[1]'.
+
+# Created at 2023-06-13T00:10:49.001
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:49.002
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [Log] - Verify element visible By.xpath: //span[@class='select2-match']'.
+
+# Created at 2023-06-13T00:10:49.084
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:49.085
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [Log] - Click on element By.xpath: //span[@class='select2-match']'.
+
+# Created at 2023-06-13T00:10:49.152
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:49.152
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [Log] - Verify element visible By.xpath: //div[@id='ajaxModalContent']//button[normalize-space()='Save']'.
+
+# Created at 2023-06-13T00:10:49.273
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:49.274
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [Log] - Click on element By.xpath: //div[@id='ajaxModalContent']//button[normalize-space()='Save']'.
+
+# Created at 2023-06-13T00:10:53.360
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:53.361
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '53 [Log] - Verify element visible By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:10:53.488
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:53.489
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '53 [Log] - Click on element By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:10:53.558
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:53.558
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '53 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:10:53.631
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:53.633
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '53 [Log] - Click on element By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:10:56.005
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:56.006
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:10:56.087
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:56.088
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Clear value in textbox By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:10:56.146
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:56.146
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:10:56.222
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:10:'.
+
+# Created at 2023-06-13T00:10:56.222
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Set text hanh on By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:11:00.273
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:00.274
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - The number of records found: 1'.
+
+# Created at 2023-06-13T00:11:00.306
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:00.306
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Scroll to element [[ChromeDriver: chrome on WINDOWS (487a11286bed951f00d43dd636dc8f29)] -> xpath:'.
+
+# Created at 2023-06-13T00:11:00.307
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//table//tbody/tr[1]/td[2]/a]'.
+
+# Created at 2023-06-13T00:11:00.326
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:00.326
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - hanh - data exists!'.
+
+# Created at 2023-06-13T00:11:01.580
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:01.581
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '01 [Log] - click record: hanh'.
+
+# Created at 2023-06-13T00:11:04.663
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:04.664
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '04 [Log] - Verify element visible By.xpath: //a[normalize-space()='Client info']'.
+
+# Created at 2023-06-13T00:11:04.758
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:04.759
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '04 [Log] - Click on element By.xpath: //a[normalize-space()='Client info']'.
+
+# Created at 2023-06-13T00:11:06.872
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:06.873
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '06 [Log] - Verify element visible By.xpath: //input[@id='type_organization']'.
+
+# Created at 2023-06-13T00:11:07.053
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.053
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //input[@id='company_name']'.
+
+# Created at 2023-06-13T00:11:07.172
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.173
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]'.
+
+# Created at 2023-06-13T00:11:07.256
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.257
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]'.
+
+# Created at 2023-06-13T00:11:07.292
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.292
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify text of an element [Equals]: true'.
+
+# Created at 2023-06-13T00:11:07.350
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.350
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]'.
+
+# Created at 2023-06-13T00:11:07.448
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.449
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']//a[@class='select2-choice']/span[1]'.
+
+# Created at 2023-06-13T00:11:07.576
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.576
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:11:07.651
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.652
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:11:07.679
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[WARN] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.679
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify text of an element [Equals]: false'.
+
+# Created at 2023-06-13T00:11:07.730
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.730
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:11:07.816
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.817
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:11:07.933
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.933
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:11:07.965
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[ERROR] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:07.965
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - The actual text is 'Hung Yen' not equals '0939206009''.
+
+# Created at 2023-06-13T00:11:08.015
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:08.015
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '08 [Log] - Verify element visible By.xpath: //textarea[@id='address']'.
+
+# Created at 2023-06-13T00:11:09.193
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.193
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Scroll to element By.xpath: //input[@id='city']'.
+
+# Created at 2023-06-13T00:11:09.329
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.329
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Verify element visible By.xpath: //input[@id='state']'.
+
+# Created at 2023-06-13T00:11:09.438
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.438
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Verify element visible By.xpath: //input[@id='zip']'.
+
+# Created at 2023-06-13T00:11:09.539
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.539
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Verify element visible By.xpath: //input[@id='country']'.
+
+# Created at 2023-06-13T00:11:09.654
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.654
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Verify element visible By.xpath: //input[@id='phone']'.
+
+# Created at 2023-06-13T00:11:09.764
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.764
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Verify element visible By.xpath: //input[@id='website']'.
+
+# Created at 2023-06-13T00:11:09.879
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.879
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Verify element visible By.xpath: //input[@id='vat_number']'.
+
+# Created at 2023-06-13T00:11:09.993
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:09.993
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '09 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div'.
+
+# Created at 2023-06-13T00:11:10.084
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:10.084
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div'.
+
+# Created at 2023-06-13T00:11:10.113
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:10.113
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify text of an element [Equals]: true'.
+
+# Created at 2023-06-13T00:11:10.166
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:10.166
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div'.
+
+# Created at 2023-06-13T00:11:10.246
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:10.246
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //li[@class='select2-search-choice']/div'.
+
+# Created at 2023-06-13T00:11:17.400
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:17.401
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:11:17.409
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:17.410
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:11:24.360
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:24.361
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:11:24.508
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:24.509
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:11:24.627
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:24.628
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Clear and Fill admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:11:24.685
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:24.685
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:11:24.791
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:24.791
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:11:24.885
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:24.885
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:11:24.942
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:24.942
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:11:27.803
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:27.803
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:11:29.867
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:29.867
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '29 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:11:31.689
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:31.689
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '31 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:11:33.762
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:33.762
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '33 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:11:33.849
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:33.850
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '33 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:11:37.930
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:37.931
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37 [Log] - Verify element visible By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:11:38.081
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:38.081
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38 [Log] - Click on element By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:11:38.136
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:38.137
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:11:38.210
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:38.211
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38 [Log] - Click on element By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:11:40.559
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:40.560
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '40 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:11:40.620
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:40.620
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '40 [Log] - Clear value in textbox By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:11:40.675
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:40.675
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '40 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:11:40.790
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:40.791
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '40 [Log] - Set text hanh on By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:11:44.880
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:44.881
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Scroll to element [[ChromeDriver: chrome on WINDOWS (289af1bfd073e94c0d780b8754f77945)] -> xpath:'.
+
+# Created at 2023-06-13T00:11:44.881
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//table//tbody/tr[1]/td[2]]'.
+
+# Created at 2023-06-13T00:11:44.907
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:44.907
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - hanh - data exists!'.
+
+# Created at 2023-06-13T00:11:44.940
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:44.941
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Scroll to element [[ChromeDriver: chrome on WINDOWS (289af1bfd073e94c0d780b8754f77945)] -> xpath:'.
+
+# Created at 2023-06-13T00:11:44.941
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//table//tbody/tr[1]/td[9]/a[2]]'.
+
+# Created at 2023-06-13T00:11:45.101
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:45.102
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Verify element visible By.id: confirmationModalTitle'.
+
+# Created at 2023-06-13T00:11:46.156
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:46.156
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify Equals: Delete? = Delete?'.
+
+# Created at 2023-06-13T00:11:46.220
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:46.220
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify element visible By.id: confirmationModalContent'.
+
+# Created at 2023-06-13T00:11:47.272
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:47.273
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Verify Equals: Are you sure? You won't be able to undo this action! = Are you sure? You won't be able to undo this action!'.
+
+# Created at 2023-06-13T00:11:47.330
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:47.330
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Verify element visible By.id: confirmDeleteButton'.
+
+# Created at 2023-06-13T00:11:47.425
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:47.426
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Click on element By.id: confirmDeleteButton'.
+
+# Created at 2023-06-13T00:11:48.511
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:48.512
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '48 [Log] - Verify element visible By.xpath: //div[contains(text(),'The record has been deleted.')]'.
+
+# Created at 2023-06-13T00:11:49.570
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:49.570
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [Log] - Verify Equals: The record has been deleted. = The record has been deleted.'.
+
+# Created at 2023-06-13T00:11:49.961
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:49.962
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:11:49.975
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:49.975
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:11:55.604
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:55.605
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:11:55.737
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:55.738
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:11:55.863
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:55.864
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Clear and Fill admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:11:55.920
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:55.920
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:11:56.031
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:56.032
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:11:56.113
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:56.113
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:11:56.164
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:11:'.
+
+# Created at 2023-06-13T00:11:56.164
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:12:00.631
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:00.631
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:12:02.714
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:02.714
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '02 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:12:04.270
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:04.271
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '04 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:12:06.347
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:06.347
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '06 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:12:06.423
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:06.423
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '06 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:12:10.507
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:10.508
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:12:10.626
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:10.627
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Click on element By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:12:10.701
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:10.701
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:12:10.784
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:10.784
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Click on element By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:12:13.150
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:13.151
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:12:13.206
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:13.206
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13 [Log] - Clear value in textbox By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:12:13.252
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:13.252
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:12:13.358
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:13.358
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13 [Log] - Set text hanhbui on By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:12:47.643
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:47.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - No Folder: F:'.
+
+# Created at 2023-06-13T00:12:47.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '\Eclipse\buihanh-doanTN-BDD\ExportData/Images'.
+
+# Created at 2023-06-13T00:12:47.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:47.645
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Folder created: F:'.
+
+# Created at 2023-06-13T00:12:47.645
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '\Eclipse\buihanh-doanTN-BDD\ExportData\Images'.
+
+# Created at 2023-06-13T00:12:47.645
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:47.645
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:12:47.646
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (f3cb445d6271c61a015000cabc0afa60)'.
+
+# Created at 2023-06-13T00:12:47.817
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:47.818
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Screenshot taken: Confirm deletion of a record'.
+
+# Created at 2023-06-13T00:12:47.826
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:47.827
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '47 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:12:47.827
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/clients'.
+
+# Created at 2023-06-13T00:12:48.444
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:48.444
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '48 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:12:48.456
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:48.457
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '48 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:12:54.912
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:54.912
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '54 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:12:55.036
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:55.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:12:55.141
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:55.142
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Clear and Fill admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:12:55.196
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:55.197
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:12:55.308
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:55.309
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:12:55.402
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:55.402
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:12:55.461
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:55.461
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '55 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:12:58.017
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:12:'.
+
+# Created at 2023-06-13T00:12:58.018
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:13:00.093
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:00.093
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:13:01.355
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:01.356
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '01 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:13:03.440
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:03.440
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '03 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:13:03.509
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:03.510
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '03 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:13:07.587
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:07.587
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:13:07.717
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:07.718
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Click on element By.xpath: //div[@id='client-table_length']//a'.
+
+# Created at 2023-06-13T00:13:07.787
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:07.787
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:13:07.871
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:07.871
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Click on element By.xpath: //div[@id='select2-drop']//ul//li[normalize-space()='All']'.
+
+# Created at 2023-06-13T00:13:10.216
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:10.216
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:13:10.266
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:10.267
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Clear value in textbox By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:13:10.321
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:10.322
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:13:10.422
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:10.422
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Set text hanhbui on By.xpath: //input[@placeholder='Search']'.
+
+# Created at 2023-06-13T00:13:44.525
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:44.525
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:13:44.525
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (74e30fa967761af4b113dbc1f7e2b289)'.
+
+# Created at 2023-06-13T00:13:44.680
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:44.681
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Screenshot taken: Confirm cancel deletion of a record'.
+
+# Created at 2023-06-13T00:13:44.688
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:44.689
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:13:44.689
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/clients'.
+
+# Created at 2023-06-13T00:13:49.564
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:49.565
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:13:49.571
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:49.571
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:13:56.439
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:56.439
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:13:56.563
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:56.563
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:13:56.685
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:56.686
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Clear and Fill admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:13:56.742
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:56.742
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:13:56.854
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:56.854
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:13:56.942
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:56.942
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:13:57.004
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:13:'.
+
+# Created at 2023-06-13T00:13:57.004
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:00.837
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:00.837
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:01.917
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:01.917
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '01 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:14:03.650
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:03.650
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '03 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:14:03.800
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:03.800
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '03 [Log] - Verify element visible By.partialLinkText: Import clien'.
+
+# Created at 2023-06-13T00:14:04.355
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:04.356
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '04 [Log] - Click on element By.partialLinkText: Import clien'.
+
+# Created at 2023-06-13T00:14:10.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:10.224
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Upload File With Local Form: C:'.
+
+# Created at 2023-06-13T00:14:10.224
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '\Users\Admin\Downloads\Login.xlsx'.
+
+# Created at 2023-06-13T00:14:10.329
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:10.329
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //button[@id='form-next']'.
+
+# Created at 2023-06-13T00:14:11.448
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:11.449
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:14:11.449
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (df090c8dadaa6236c09e4f9a627e2dd5)'.
+
+# Created at 2023-06-13T00:14:11.636
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:11.637
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11 [Log] - Screenshot taken: User uploaded the correct file format but wrong template'.
+
+# Created at 2023-06-13T00:14:11.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:11.645
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:14:11.645
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/clients'.
+
+# Created at 2023-06-13T00:14:12.377
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:12.377
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '12 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:14:12.387
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:12.388
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '12 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:14:18.341
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:18.341
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:14:18.468
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:18.468
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:14:18.576
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:18.576
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18 [Log] - Clear and Fill admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:14:18.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:18.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:14:18.764
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:18.764
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:14:18.861
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:18.861
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:14:18.921
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:18.921
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:21.269
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:21.269
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '21 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:22.329
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:22.329
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '22 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:14:24.051
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:24.052
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]'.
+
+# Created at 2023-06-13T00:14:24.210
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:24.211
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Verify element visible By.partialLinkText: Import clien'.
+
+# Created at 2023-06-13T00:14:24.740
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:24.741
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 [Log] - Click on element By.partialLinkText: Import clien'.
+
+# Created at 2023-06-13T00:14:30.861
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:30.862
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '30 [Log] - Upload File With Local Form: ￢ﾀﾪC:'.
+
+# Created at 2023-06-13T00:14:30.862
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '\Users\Admin\Downloads\Book1.xlsx'.
+
+# Created at 2023-06-13T00:14:30.931
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:30.932
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '30 [Log] - Verify element visible By.xpath: //button[@id='form-next']'.
+
+# Created at 2023-06-13T00:14:32.015
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:32.016
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '32 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:14:32.016
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (6861f861736c2ff43e4234733cab45b6)'.
+
+# Created at 2023-06-13T00:14:32.245
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:32.246
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '32 [Log] - Screenshot taken: User uploaded the correct file format but wrong template'.
+
+# Created at 2023-06-13T00:14:32.255
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:32.256
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '32 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:14:32.256
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/clients'.
+
+# Created at 2023-06-13T00:14:36.026
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:36.026
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '36 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:14:36.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:36.039
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '36 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:14:41.550
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:41.550
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:14:41.623
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:41.624
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41 [Log] - Clear value in textbox By.id: email'.
+
+# Created at 2023-06-13T00:14:41.679
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:41.679
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:14:41.790
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:41.790
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41 [Log] - Set text admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:14:41.850
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:41.851
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:14:41.910
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:41.910
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41 [Log] - Clear value in textbox By.id: password'.
+
+# Created at 2023-06-13T00:14:41.967
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:41.968
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:14:42.078
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:42.078
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42 [Log] - Set text riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:14:42.149
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:42.150
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:44.579
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:44.580
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:45.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:45.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Verify Equals: Dashboard | RISE - Ultimate Project Manager and CRM = Dashboard | RISE - Ultimate Project Manager and CRM'.
+
+# Created at 2023-06-13T00:14:45.853
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:45.853
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:14:45.863
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:45.864
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:14:51.232
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.233
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:14:51.310
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.310
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Clear value in textbox By.id: email'.
+
+# Created at 2023-06-13T00:14:51.362
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.362
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:14:51.476
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.476
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Set text client@ￄﾑemo.com on By.id: email'.
+
+# Created at 2023-06-13T00:14:51.537
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.537
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:14:51.605
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.606
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Clear value in textbox By.id: password'.
+
+# Created at 2023-06-13T00:14:51.663
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.663
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:14:51.755
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.755
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Set text riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:14:51.819
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.819
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:51.904
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:51.904
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '51 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:14:52.933
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:52.934
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '52 [Log] - Verify Equals: Sign in | RISE - Ultimate Project Manager and CRM != Dashboard | RISE - Ultimate Project Manager and CRM'.
+
+# Created at 2023-06-13T00:14:52.935
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:52.935
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '52 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:14:52.936
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (b33a214e0c51b983c14af80650b080bc)'.
+
+# Created at 2023-06-13T00:14:53.586
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:53.587
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '53 [Log] - Screenshot taken: Signin with valid credentials'.
+
+# Created at 2023-06-13T00:14:53.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:53.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '53 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:14:53.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/signin'.
+
+# Created at 2023-06-13T00:14:54.590
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:54.590
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '54 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:14:54.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:14:'.
+
+# Created at 2023-06-13T00:14:54.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '54 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:15:00.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:00.116
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.116
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Clear value in textbox By.id: email'.
+
+# Created at 2023-06-13T00:15:00.171
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.171
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:00.252
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.253
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Set text  on By.id: email'.
+
+# Created at 2023-06-13T00:15:00.311
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.312
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:00.378
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.379
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Clear value in textbox By.id: password'.
+
+# Created at 2023-06-13T00:15:00.445
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.445
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:00.524
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.525
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Set text  on By.id: password'.
+
+# Created at 2023-06-13T00:15:00.578
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.579
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:00.658
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.658
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:00.725
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:00.726
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Verify element visible By.id: email-error'.
+
+# Created at 2023-06-13T00:15:01.782
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:01.782
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '01 [Log] - Verify Equals: This field is required. = This field is required.'.
+
+# Created at 2023-06-13T00:15:01.859
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:01.859
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '01 [Log] - Verify element visible By.id: password-error'.
+
+# Created at 2023-06-13T00:15:02.904
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:02.904
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '02 [Log] - Verify Equals: This field is required. = This field is required.'.
+
+# Created at 2023-06-13T00:15:03.121
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:03.121
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '03 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:15:03.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:03.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '03 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:15:10.194
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.194
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:10.323
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.324
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:10.431
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.431
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Clear and Fill admin on By.id: email'.
+
+# Created at 2023-06-13T00:15:10.497
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.497
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:10.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.644
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:10.724
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.725
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:15:10.781
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.781
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:10.849
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.849
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:10.916
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:10.917
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10 [Log] - Verify element visible By.id: email-error'.
+
+# Created at 2023-06-13T00:15:11.975
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:11.976
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11 [Log] - Verify Equals: Please enter a valid email address. != Please enter a valid email address￢ﾀﾦ.'.
+
+# Created at 2023-06-13T00:15:11.978
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:11.978
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:15:11.979
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (2fe5141faa8893b62e1e3e8b35c834bd)'.
+
+# Created at 2023-06-13T00:15:12.653
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:12.653
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '12 [Log] - Screenshot taken: Signin with invalid email and valid password'.
+
+# Created at 2023-06-13T00:15:12.660
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:12.661
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '12 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:15:12.661
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/signin'.
+
+# Created at 2023-06-13T00:15:13.579
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:13.579
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:15:13.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:13.594
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:15:19.102
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.102
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:19.236
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.236
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:19.360
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.360
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Clear and Fill admin@@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:15:19.426
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.426
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:19.549
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.549
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:19.635
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.636
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:15:19.696
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.696
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:19.780
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.781
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:19.857
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:19.858
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19 [Log] - Verify element visible By.id: email-error'.
+
+# Created at 2023-06-13T00:15:20.910
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:20.910
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20 [Log] - Verify Equals: Please enter a valid email address. = Please enter a valid email address.'.
+
+# Created at 2023-06-13T00:15:21.214
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:21.215
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '21 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:15:21.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:21.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '21 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:15:26.779
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:26.779
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '26 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:26.906
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:26.907
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '26 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:27.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:27.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Clear and Fill @demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:15:27.099
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:27.099
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:27.218
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:27.218
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:27.306
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:27.307
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:15:27.357
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:27.357
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:27.424
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:27.424
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:27.472
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:27.473
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '27 [Log] - Verify element visible By.id: email-error'.
+
+# Created at 2023-06-13T00:15:28.516
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:28.518
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '28 [Log] - Verify Equals: Please enter a valid email address. = Please enter a valid email address.'.
+
+# Created at 2023-06-13T00:15:28.788
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:28.789
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '28 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:15:28.801
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:28.801
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '28 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:15:34.227
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:34.227
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:34.354
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:34.355
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:34.498
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:34.498
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Clear and Fill admin11@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:15:34.565
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:34.565
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:34.674
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:34.674
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:34.750
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:34.750
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Clear and Fill riseDemo on By.id: password'.
+
+# Created at 2023-06-13T00:15:34.801
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:34.801
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '34 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:36.104
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:36.104
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '36 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:36.170
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:36.170
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '36 [Log] - Verify element visible By.xpath: //div[@role='alert']'.
+
+# Created at 2023-06-13T00:15:37.233
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:37.233
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37 [Log] - Verify Equals: Authentication failed! = Authentication failed!'.
+
+# Created at 2023-06-13T00:15:37.471
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:37.472
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:15:37.482
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:37.482
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:15:43.121
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:43.121
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '43 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:43.247
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:43.247
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '43 [Log] - Verify element visible By.id: email'.
+
+# Created at 2023-06-13T00:15:43.356
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:43.356
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '43 [Log] - Clear and Fill admin@demo.com on By.id: email'.
+
+# Created at 2023-06-13T00:15:43.422
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:43.422
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '43 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:43.527
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:43.527
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '43 [Log] - Verify element visible By.id: password'.
+
+# Created at 2023-06-13T00:15:43.612
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:43.612
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '43 [Log] - Clear and Fill riseDemo1 on By.id: password'.
+
+# Created at 2023-06-13T00:15:43.676
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:43.676
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '43 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:45.180
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:45.180
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']'.
+
+# Created at 2023-06-13T00:15:45.247
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:45.247
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '45 [Log] - Verify element visible By.xpath: //div[@role='alert']'.
+
+# Created at 2023-06-13T00:15:46.295
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:46.296
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '46 [Log] - Verify Equals: Authentication failed! = Authentication failed!'.
+
+# Created at 2023-06-13T00:15:50.883
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:50.883
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '50 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:15:50.889
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:50.890
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '50 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:15:56.402
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:56.403
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '56 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]'.
+
+# Created at 2023-06-13T00:15:57.160
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.160
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]'.
+
+# Created at 2023-06-13T00:15:57.232
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.232
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Verify element visible By.xpath: //label[contains(text(),'Individual')]'.
+
+# Created at 2023-06-13T00:15:57.323
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.323
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Click on element By.xpath: //label[contains(text(),'Individual')]'.
+
+# Created at 2023-06-13T00:15:57.386
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.386
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.450
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.450
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Clear value in textbox By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.498
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.499
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.597
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.597
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Set text hanh on By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.661
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.661
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.722
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.722
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Clear value in textbox By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.785
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.786
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.873
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.873
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Set text bui on By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.929
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.929
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:57.983
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:57.984
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '57 [Log] - Clear value in textbox By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.024
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.024
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.125
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.125
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Set text hanh74873@gmail.com on By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.174
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.174
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Clear value in textbox By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.268
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.268
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.359
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.360
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Set text 27111992 on By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.413
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.414
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.462
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.462
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Clear value in textbox By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.509
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.509
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Verify element visible By.id: first_name'.
+
+# Created at 2023-06-13T00:15:58.592
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:58.592
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '58 [Log] - Set text 27111992 on By.id: first_name'.
+
+# Created at 2023-06-13T00:15:59.664
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:59.664
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59 [Log] - Verify Equals: Sign up | RISE - Ultimate Project Manager and CRM != Sign in | RISE - Ultimate Project Manager and CRM'.
+
+# Created at 2023-06-13T00:15:59.666
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:15:'.
+
+# Created at 2023-06-13T00:15:59.667
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:15:59.667
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (cbdd59e9f93baf66fcbfd977ec02b960)'.
+
+# Created at 2023-06-13T00:16:00.294
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:00.295
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Screenshot taken: Sign up with vaild fields'.
+
+# Created at 2023-06-13T00:16:00.303
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:00.303
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:16:00.303
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/signup'.
+
+# Created at 2023-06-13T00:16:01.634
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:01.634
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '01 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)'.
+
+# Created at 2023-06-13T00:16:01.641
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:01.642
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '01 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe'.
+
+# Created at 2023-06-13T00:16:07.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:07.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Verify element visible By.xpath: //a[contains(text(),'Sign up')]'.
+
+# Created at 2023-06-13T00:16:07.867
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:07.867
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Click on element By.xpath: //a[contains(text(),'Sign up')]'.
+
+# Created at 2023-06-13T00:16:07.874
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:07.874
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '07 [Log] - Driver for Screenshot: ChromeDriver:'.
+
+# Created at 2023-06-13T00:16:07.875
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'chrome on WINDOWS (c8842d4455be1dbd49ae0ce4927abe1e)'.
+
+# Created at 2023-06-13T00:16:08.738
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:08.738
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '08 [Log] - Screenshot taken: Sign up without filling any details'.
+
+# Created at 2023-06-13T00:16:08.745
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[INFO] 13-06-2023 00:16:'.
+
+# Created at 2023-06-13T00:16:08.745
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '08 [Log] - Screenshot taken current URL: https:'.
+
+# Created at 2023-06-13T00:16:08.745
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '//rise.fairsketch.com/signup'.
+

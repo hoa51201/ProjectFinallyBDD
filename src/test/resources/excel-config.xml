@@ -1,0 +1,54 @@
+<extentreports>
+   <configuration>
+      <!-- report theme -->
+      <theme>standard</theme>
+
+      <!-- document encoding -->
+      <encoding>UTF-8</encoding>
+
+      <!-- protocol for script and stylesheets -->
+      <protocol>https</protocol>
+
+      <!-- title of the document -->
+      <documentTitle>My Test Report</documentTitle>
+
+      <!-- report name - displayed at top-nav -->
+      <reportName>My Test Report</reportName>
+
+      <!-- matching keywords and authors for all tests -->
+      <keywords>ExtentReports,Reports,Automation</keywords>
+      <author>John Doe</author>
+
+      <!-- add custom javascript via CDATA -->
+      <scripts><![CDATA[]]></scripts>
+
+      <!-- custom styles -->
+      <styles><![CDATA[]]></styles>
+
+      <!-- report file location -->
+      <destination>ExcelReport/ExcelReport.xlsx</destination>
+
+      <!-- document view settings -->
+      <displayOrder>oldestFirst</displayOrder>
+      <titleColor>black</titleColor>
+      <reportHeadline>My Test Report</reportHeadline>
+      <showTestRunnerLogs>true</showTestRunnerLogs>
+
+      <!-- excel config settings -->
+      <configuration>
+         <xlsx>
+            <autoCreateNodes>true</autoCreateNodes>
+         </xlsx>
+      </configuration>
+
+      <!-- MongoDb specific -->
+      <mongoDb>
+         <server></server>
+         <port></port>
+         <db name=""></db>
+         <username></username>
+         <password></password>
+      </mongoDb>
+
+   </configuration>
+</extentreports>

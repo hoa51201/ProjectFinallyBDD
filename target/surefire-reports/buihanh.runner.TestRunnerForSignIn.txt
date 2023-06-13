@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: buihanh.runner.TestRunnerForSignIn
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 74.882 s <<< FAILURE! - in buihanh.runner.TestRunnerForSignIn
+Signin functionality.Signin with valid credentials #2  Time elapsed: 8.733 s  <<< FAILURE!
+java.lang.AssertionError: Sign in | RISE - Ultimate Project Manager and CRM != Dashboard | RISE - Ultimate Project Manager and CRM expected [Dashboard | RISE - Ultimate Project Manager and CRM] but found [Sign in | RISE - Ultimate Project Manager and CRM]
+
+Signin functionality.Signin with invalid email and valid password #1  Time elapsed: 10.444 s  <<< FAILURE!
+java.lang.AssertionError: Please enter a valid email address. != Please enter a valid email address…. expected [Please enter a valid email address….] but found [Please enter a valid email address.]
+
